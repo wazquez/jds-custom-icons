@@ -157,9 +157,9 @@
   "name": "icon-edit_24",
   "color": "red"
   },
-  "Myonline": {
-  "name": "icon-contact-card_36",
-  "color": "red"
+  "Online": {
+  "name": "icon-contact-card_16",
+  "color": "green"
   },
   "add": {
   "name": "icon-add_16",
