@@ -144,15 +144,15 @@
   "Deposit": {
     "name": "icon-check-circle_16",
     "color": "green"
-    },
+  },
   "Error": {
     "name": "icon-error_16",
     "color": "red"
-    },
+  },
   "Payment Complete": {
     "name": "icon-edit_24",
     "color": "blue"
-    },
+  },
   "Payment Notify": {
   "name": "icon-edit_24",
   "color": "red"
