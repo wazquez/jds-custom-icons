@@ -157,11 +157,11 @@
   "name": "icon-edit_24",
   "color": "red"
   },
-  "Online": {
+  "Myonline": {
   "name": "icon-contact-card_36",
   "color": "black"
-},
-"add": {
-"name": "icon-add_16",
-"color": "red"
-  }
+  },
+  "add": {
+  "name": "icon-add_16",
+  "color": "red"
+}
