@@ -156,5 +156,8 @@
   "Payment Notify": {
   "name": "icon-edit_24",
   "color": "red"
-  }
+  },
+  "Online": {
+  "name": "icon-contact-card_36,
+  "color": "green"
 }
