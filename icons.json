@@ -159,5 +159,9 @@
   },
   "Online": {
   "name": "icon-contact-card_36",
-  "color": "green"
-}
+  "color": "black"
+},
+"add": {
+"name": "icon-add_16",
+"color": "red"
+  }
